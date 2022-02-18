@@ -41,7 +41,7 @@
                 <div class="col-lg-6 align-self-center">
                     <div class="header-text">
                         <h3></h3>
-                        <h2><em>Oscar Cotrina</em><br>Web Developer</h2>
+                        <h2><em>Oscar cCotrina</em><br>Web Developer</h2>
                         <div class="main-button-gradient">
                             <div class="scroll-to-section"><a href="#contact-section">Contact me!</a></div>
                         </div>
